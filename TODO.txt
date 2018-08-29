@@ -1,0 +1,9 @@
+
+crear gulp
+
+Que dependiendo de quién esté al frente; se ajusten los menús / botones
+
+agregar módulo (jquery) que envíe:
+- textos/html
+- botones con opciones
+- progreso
